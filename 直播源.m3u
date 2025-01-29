@@ -33,8 +33,6 @@ http://lt.hxtre.com:35455/gaoma/cctv14.m3u8#http://hangfun.top:35455/gaoma/cctv1
 http://lt.hxtre.com:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视台",河北卫视
 http://106.115.27.164:9999/tsfile/live/0117_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳电视频道",河北都市
-http://106.115.27.164:9999/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",河北影视
 http://106.115.27.164:9999/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",河北少儿科教
@@ -51,8 +49,10 @@ http://106.115.27.164:9999/tsfile/live/1014_1.m3u8
 http://106.115.27.164:9999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",东方卫视高清
 http://106.115.27.164:9999/tsfile/live/1016_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",浙江卫视高清
-http://106.115.27.164:9999/tsfile/live/1017_1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="动画",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视台",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视台",天津卫视
 http://tvpull.careryun.com/tv/cn_tjws.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视台",安徽卫视
@@ -141,8 +141,10 @@ http://epg.112114.xyz/douyu/4332
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="影视",电影1
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 group-title="影视",斗鱼电影
-1http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 group-title="动画",猫和老鼠
+https://live.iill.top/huya/11352879
+#EXTINF:-1 group-title="动画",七龙珠
+https://live.iill.top/huya/11601966
 #EXTINF:-1 group-title="影视",斗鱼电影HD1
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="影视",恐怖经典
