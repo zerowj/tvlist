@@ -37,17 +37,17 @@ http://106.115.27.164:9999/tsfile/live/0117_1.m3u8
 http://106.115.27.164:9999/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",河北少儿科教
 http://106.115.27.164:9999/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",北京卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",北京卫视
 http://106.115.27.164:9999/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",湖南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",湖南卫视
 http://106.115.27.164:9999/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",黑龙江卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",黑龙江卫视
 http://106.115.27.164:9999/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",深圳卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",深圳卫视
 http://106.115.27.164:9999/tsfile/live/1014_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",江苏卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",江苏卫视
 http://106.115.27.164:9999/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",东方卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",东方卫视
 http://106.115.27.164:9999/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="动画",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -72,7 +72,7 @@ http://106.115.27.164:9999/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视台",贵州卫视
 http://106.115.27.164:9999/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视台",湖北卫视
-http://106.115.27.164:9999/tsfile/live/0132_1.m3u8
+http://tvpull.careryun.com/tv/hbws.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视台",东方卫视
 http://39.164.160.249:9901/tsfile/live/0107_1.m3u8#http://tvpull.careryun.com/tv/dfws.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视台",重庆卫视
@@ -111,8 +111,6 @@ https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62f
 http://106.115.27.164:9999/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="动画",金鹰卡通
 http://106.115.27.164:9999/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-logo="" group-title="🇨🇳电视频道",梨园
-http://106.115.27.164:9999/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视台",风云剧场
 http://106.115.27.164:9999/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视台",怀旧剧场
