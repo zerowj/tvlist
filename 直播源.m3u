@@ -195,8 +195,6 @@ http://146.235.213.45:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 http://ott.eonn.cn:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
 http://home.dzlove.top:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
-http://home.dzlove.top:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://live.zbds.top/logo/重温经典.png" group-title="数字频道", 重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="纪实科教8K" tvg-id="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png" group-title="数字频道", 纪实科教8K
@@ -257,14 +255,6 @@ http://nas.hssvm.com:8888/udp/225.1.1.135:5002
 http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="https://live.zbds.top/logo/CCTV央视台球.png" group-title="央视频道", CCTV央视台球
 https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://live.zbds.top/logo/CGTN.png" group-title="央视频道", CGTN
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视频道", CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视频道", CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视频道", CGTN西语
-https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="旅游卫视" tvg-id="旅游卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/旅游卫视.png" group-title="其他频道", 旅游卫视
 http://111.61.236.247:9081/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
@@ -305,8 +295,6 @@ https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="LoveNature" tvg-id="LoveNature" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/LoveNature.png" group-title="其他频道", LoveNature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
-#EXTINF:-1 tvg-name="3ABNKids" tvg-id="3ABNKids" tvg-logo="https://live.zbds.top/logo/3ABNKids.png" group-title="电影频道", 3ABNKids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="77说电影" tvg-id="77说电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5c039fad99ee41068a77fa8ec984efb7_big.jpg" group-title="电影频道", 77说电影
 http://fy27.zbds.top:55455/douyu/9444320
 #EXTINF:-1 tvg-name="8090电影一哥" tvg-id="8090电影一哥" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/81/2223817740/u2223817740JU6Tfjw.jpg" group-title="电影频道", 8090电影一哥
@@ -319,8 +307,6 @@ http://37.27.111.214:8080/live/28/hls.m3u8
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-name="KuriakosKids" tvg-id="KuriakosKids" tvg-logo="https://live.zbds.top/logo/KuriakosKids.png" group-title="电影频道", KuriakosKids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="XilamTV" tvg-id="XilamTV" tvg-logo="https://live.zbds.top/logo/XilamTV.png" group-title="电影频道", XilamTV
-https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="X战警系列电影" tvg-id="X战警系列电影" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影频道", X战警系列电影
 http://fy27.zbds.top:55455/yy/1382736893
 #EXTINF:-1 tvg-name="万州影视Not247" tvg-id="万州影视Not247" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/万州影视Not247.png" group-title="电影频道", 万州影视Not247
@@ -333,3 +319,5 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 http://fy27.zbds.top:55455/yy/1354936214
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东阳影视生活.png" group-title="电影频道", 东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://home.dzlove.top:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
