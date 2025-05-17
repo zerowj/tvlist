@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视台",CCTV-1
-http://202.168.187.208:9089/tsfile/live/1003_1.m3u8#http://8.138.7.223/tv/ptbtv.php?id=27
+http://202.168.187.208:9089/tsfile/live/1003_1.m3u8#http://8.138.7.223/tv/ptbtv.php?id=27#http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视台",CCTV-2
 http://1.183.54.201:9003//hls/2/index.m3u8#https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视台",CCTV-3
-http://1.183.54.201:9003//hls/3/index.m3u8#http://gf.you123.fun:35455/gaoma/cctv3.m3u8
+http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA#http://gf.you123.fun:35455/gaoma/cctv3.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视台",CCTV-4
-http://1.183.54.201:9003//hls/4/index.m3u8
+http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视台",CCTV-5
-http://lt.hxtre.com:35455/gaoma/cctv5.m3u8#https://www.freetv.top/migu/641886683.m3u8?migutoken=6e3c4a6fba0be5e4060d1c8abab920c2a8ee3308ee2e5a373bad466d9c1c0c3815b96ff56d6b8aab1f7440fc34813d288efe932e05cf0594d7b1a4eaa542a95508f64bbc8423a4e814954a0913
+http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA#https://www.freetv.top/migu/641886683.m3u8?migutoken=6e3c4a6fba0be5e4060d1c8abab920c2a8ee3308ee2e5a373bad466d9c1c0c3815b96ff56d6b8aab1f7440fc34813d288efe932e05cf0594d7b1a4eaa542a95508f64bbc8423a4e814954a0913
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视台",CCTV-5+
-http://1.180.2.93:9901/tsfile/live/1027_1.m3u8#http://222.169.85.8:9901/tsfile/live/0116_1.m3u8#http://home.yulei.online:9999/rtp/226.0.2.168:9256
+http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA#http://222.169.85.8:9901/tsfile/live/0116_1.m3u8#http://home.yulei.online:9999/rtp/226.0.2.168:9256
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视台",CCTV-6
 http://1.183.54.201:9003//hls/6/index.m3u8#http://222.169.85.8:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视台",CCTV-7
