@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视台",CCTV-1
-http://1.180.2.93:9901/tsfile/live/1020_1.m3u8#http://1.183.54.201:9003//hls/1/index.m3u8
+http://202.168.187.208:9089/tsfile/live/1003_1.m3u8#http://8.138.7.223/tv/ptbtv.php?id=27
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视台",CCTV-2
 http://1.183.54.201:9003//hls/2/index.m3u8#https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视台",CCTV-3
@@ -31,6 +31,8 @@ http://1.183.54.201:9003//hls/13/index.m3u8#https://www.freetv.top/migu/60880742
 http://1.183.54.201:9003//hls/14/index.m3u8#http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视台",CCTV-15
 http://1.183.54.201:9003//hls/15/index.m3u8
+#EXTINF:-1 tvg-id="CCTV117" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视台",CCTV-17
+http://111.43.126.240:9003/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://assets.livednow.com/logo/CCTV-兵器科技.png" group-title="央视台",CCTV-兵器科技
 http://60.2.190.206:4000/udp/239.253.93.47:6435
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视台",河北卫视
